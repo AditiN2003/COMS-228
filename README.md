@@ -6,3 +6,6 @@ Note: proj1/test contains JUnit tests to test functionality
 # HW 2
 
 This involves implementing sorting algorithms to find the median coordinate point from a set of 2D integer points in a coordinate plane. 
+# HW 3
+
+This homework implements the StoutList class extending AbstractSequentialList along with inner classes for iterators. The list is a doubly-linked list with dummy nodes for head and tail. Each node stores up to a fixed, positive even number of data elements. Specific rules govern the addition and removal of elements.
