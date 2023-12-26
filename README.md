@@ -9,3 +9,7 @@ This involves implementing sorting algorithms to find the median coordinate poin
 # HW 3
 
 This homework implements the StoutList class extending AbstractSequentialList along with inner classes for iterators. The list is a doubly-linked list with dummy nodes for head and tail. Each node stores up to a fixed, positive even number of data elements. Specific rules govern the addition and removal of elements.
+
+# HW 4
+
+The project involves decoding a compressed message archived using a binary-tree-based algorithm. The program reads a filename, decodes the message in the file, and prints it out to the console. The file format contains encoding scheme lines and the archived message.
